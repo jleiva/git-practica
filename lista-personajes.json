@@ -1,8 +1,12 @@
+
 {
   "listado": [{
     "nombre": "Jose Leiva",
-    "repositorio": "https://github.com/jleiva/git-practica",
-    "nombre": "Hillary Cordero",
-    "repositorio": "https://github.com/hillaryCF/git-practica"
+    "repositorio": "https://github.com/jleiva/git-practica"
+  },
+  {
+    "nombre": "Hillary cordero",
+    "repositorio": "https://github.com/hillaryCF/git-practica.git"
+  
   }]
 }
