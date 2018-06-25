@@ -5,8 +5,17 @@
     "repositorio": "https://github.com/jleiva/git-practica"
   },
   {
+
     "nombre": "Hillary cordero",
     "repositorio": "https://github.com/hillaryCF/taller-git.git"
-  
+  }
+
+  { "nombre": "saul lopez",
+    "repositorio": "https://github.com/sauljlm/git-practica.git"
+  },
+  {
+    "nombre": "Luis Armando",
+    "repositorio": "https://github.com/LuisArmando-TestCoder/git-practica"
+
   }]
 }
