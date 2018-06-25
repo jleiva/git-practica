@@ -23,6 +23,10 @@
   {
   	"nombre": "Lauren",
     "repositorio": "https://github.com/Lauren6295/taller-git.git"
+  },
+  {
+    "nombre": "Nycoll",
+    "repositorio": "https://github.com/NycollSM/taller-git.git"
   }
 ]
 }
