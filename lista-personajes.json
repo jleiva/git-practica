@@ -4,7 +4,15 @@
     "repositorio": "https://github.com/jleiva/git-practica"
   },
   {
-  	"nombre": "Lilliam Montoya",
-    "repositorio": "https://github.com/LilMonRod/git-practica"
+    "nombre": "saul lopez",
+    "repositorio": "https://github.com/sauljlm/git-practica.git"
+  },
+  {
+    "nombre": "Luis Armando",
+    "repositorio": "https://github.com/LuisArmando-TestCoder/git-practica"
+  },
+  {
+    "nombre": "Lilliam Montoya",
+    "repositorio": "https://github.com/LilMonRod/git-practica.git"
   }]
 }
