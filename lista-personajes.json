@@ -17,7 +17,12 @@
     "repositorio": "https://github.com/LuisArmando-TestCoder/git-practica"
   },
   {
-    "nombre": "Lilliam Montoya",
+   "nombre": "Lilliam Montoya",
     "repositorio": "https://github.com/LilMonRod/taller-git.git"
-  }]
+  },
+  {
+  	"nombre": "Lauren",
+    "repositorio": "https://github.com/Lauren6295/taller-git.git"
+  }
+]
 }
