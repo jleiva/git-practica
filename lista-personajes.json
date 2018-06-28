@@ -14,14 +14,19 @@
   },
   {
     "nombre": "Luis Armando",
-    "repositorio": "https://github.com/LuisArmando-TestCoder/git-practica"
+    "repositorio": "https://github.com/LuisArmando-TestCoder/taller-git"
   },
   {
-    "nombre": "Lilliam Montoya",
+   "nombre": "Lilliam Montoya",
     "repositorio": "https://github.com/LilMonRod/taller-git.git"
   },
   {
-  	"nombre": "Mariam",
-  	"repositorio": "https://github.com/Mariam181/taller-git/tree/personaje"
-  }]
+  	"nombre": "Lauren",
+    "repositorio": "https://github.com/Lauren6295/taller-git.git"
+  },
+  {
+    "nombre": "Nycoll",
+    "repositorio": "https://github.com/NycollSM/taller-git.git"
+  }
+]
 }
