@@ -27,6 +27,10 @@
   {
     "nombre": "Nycoll",
     "repositorio": "https://github.com/NycollSM/taller-git.git"
+  },
+  {
+    "nombre": "Mariam Mora",
+    "repositorio": "https://github.com/Mariam181/taller-git"
   }
 ]
 }
