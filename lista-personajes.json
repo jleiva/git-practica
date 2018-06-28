@@ -4,15 +4,8 @@
     "repositorio": "https://github.com/jleiva/git-practica"
   },
   {
-    "nombre": "saul lopez",
-    "repositorio": "https://github.com/sauljlm/git-practica.git"
-  },
-  {
-    "nombre": "Luis Armando",
-    "repositorio": "https://github.com/LuisArmando-TestCoder/git-practica"
-  },
-  {
     "nombre": "Cristian Felipe",
     "repositorio": "https://github.com/cristianfelipe94/Taller-git"
-  }]
+  }
+  ]
 }
