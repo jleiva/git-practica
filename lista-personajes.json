@@ -10,7 +10,7 @@
   },
   {
     "nombre": "saul lopez",
-    "repositorio": "https://github.com/sauljlm/git-practica.git"
+    "repositorio": "https://github.com/sauljlm/taller-git"
   },
   {
     "nombre": "Luis Armando",
@@ -27,6 +27,10 @@
   {
     "nombre": "Nycoll",
     "repositorio": "https://github.com/NycollSM/taller-git.git"
+  },
+  {
+    "nombre": "Cristian Felipe",
+    "repositorio": "https://github.com/cristianfelipe94/Taller-git"
   }
 ]
 }
