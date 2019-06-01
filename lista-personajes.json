@@ -27,6 +27,10 @@
   {
     "nombre": "Nycoll",
     "repositorio": "https://github.com/NycollSM/taller-git.git"
+  },
+  {
+    "nombre": "jimmy alvarez",
+    "repositorio": "https://github.com/JgeovanniAm/taller-git"
   }
 ]
 }
