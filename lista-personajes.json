@@ -1,5 +1,6 @@
 {
-  "listado": [{
+  
+"listado": [{
     "nombre": "Jose Leiva",
     "repositorio": "https://github.com/jleiva/git-practica"
   },
@@ -27,6 +28,10 @@
   {
     "nombre": "Nycoll",
     "repositorio": "https://github.com/NycollSM/taller-git.git"
+  }
+  {	
+	  "Nombre":="Jose",
+	  "repositorio":="https://github.com/jramos22/tallergit"
   }
 ]
 }
