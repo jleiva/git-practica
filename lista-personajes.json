@@ -27,6 +27,10 @@
   {
     "nombre": "Nycoll",
     "repositorio": "https://github.com/NycollSM/taller-git.git"
-  }
+  },
+  {
+    "nombre": "Vieyra",
+    "repositorio": "https://github.com/vieyraurena/git-practica.git"
+  },
 ]
 }
